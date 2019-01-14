@@ -1,4 +1,4 @@
-#Owncloud quickstart guide
+# Owncloud quickstart guide
 
 This guide provides a quick installation for Owncloud.  The guide describes the following tasks:
 
