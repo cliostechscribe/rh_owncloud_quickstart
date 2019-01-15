@@ -10,4 +10,4 @@ Owncloud displays the User management page.
 3.  Optionally, select the _Groups_ to which you want to add the new user.
 
 4.  Click _Create_.  
-The user us created and added to the list of users on the User management page.
+The user is created and added to the list of users on the User management page.
