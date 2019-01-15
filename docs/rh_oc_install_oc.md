@@ -2,7 +2,7 @@
 
 ## Before you begin
 
-Before you begin installation, make sure your system meets all requirements.  See [Owncloud system requirements](rh_oc_requirements.html).
+Before you begin installation, make sure your system meets all requirements.  See [Owncloud system requirements](rh_oc_system_requirements.html).
 
 ## Installing Owncloud
 
