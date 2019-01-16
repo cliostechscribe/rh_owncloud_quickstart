@@ -20,10 +20,10 @@ Owncloud displays the Files page.
 
 ##  Owncloud apps
 
-To install the Owncloud app on your device, go to the Apple Store or Google Play store on your device.  Follow the instructions to connect to your Owncloud server after installing the device.
+To install the Owncloud app on your device, go to the Apple Store or Google Play store on your device.  Follow the app installation instructions to connect to your Owncloud server after installing the device.
 
 ## Owncloud desktop clients
 
 Owncloud desktop clients are available for Windows, MacOS, and Linux operating systems.  
 
-To install the Owncloud desktop client, open a browser and in the address field enter [https://owncloud.com/download/](https://owncloud.com/download/).  Scroll down the page and find the link to your desktop operating system.
+To install the Owncloud desktop client, open a browser and in the address field enter [https://owncloud.com/download/](https://owncloud.com/download/).  Scroll down the page and find the link to the installer for your desktop operating system.
