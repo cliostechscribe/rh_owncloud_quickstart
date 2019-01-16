@@ -1,6 +1,6 @@
 # Changing the Owncloud URL and import
 
-By default, the URL http://&lt;hostname&gt;/owncloud (where `&lt;hostname&gt;` is the name or IP address of the machine where Owncloud is installed) is used to access Owncloud, and Owncloud listens on the default web server port (port 80 for unsecure requests, port 443 for secure requests).  You may want to change  the URL so you can access Owncloud using direct requests to the server, and so you can use a different port.  
+By default, the URL http://&lt;hostname&gt;/owncloud (where `<hostname>` is the name or IP address of the machine where Owncloud is installed) is used to access Owncloud, and Owncloud listens on the default web server port (port 80 for unsecure requests, port 443 for secure requests).  You may want to change  the URL so you can access Owncloud using direct requests to the server, and so you can use a different port.  
 
 You make both changes by editing configuration files in the system.  
 
@@ -29,7 +29,7 @@ In the first example, requests to http://localhost immediately return Owncloud. 
 
 ## Changing the Owncloud port
 
-Owncloud listens on the web server port (by default, port 80 for unsecure requrests, port 443 for secure requests).  If you want Owncloud to listen on a different port, you must configure the port for the web server.
+Owncloud listens on the web server port (by default, port 80 for unsecure requests, port 443 for secure requests).  If you want Owncloud to listen on a different port, you must configure the port for the web server.
 
 To change the web server port on Apache:
 
